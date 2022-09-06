@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 team: Tigers
 
 manager: Donald
@@ -6,4 +7,16 @@ members:
 - Linda
 - William
 - David
+=======
+team: Tigers
+
+manager: Donald
+
+coach: Grace
+
+members:
+- Linda
+- William
+- David
+>>>>>>> add-coach
 - George
